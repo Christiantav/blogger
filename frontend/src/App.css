@@ -1,0 +1,25 @@
+/* Begin Header related CSS */
+
+/* End Header related CSS */
+
+
+/* Begin App Related CSS */
+
+
+
+/* End App Related CSS */
+
+
+/* Begin Footer related CSS */
+
+.footer-text {
+    max-height: 7%;
+}
+
+@media (max-width: 800px) {
+    .footer-text {
+        max-height: 8%;
+    }
+}
+
+/* End Footer related CSS */
